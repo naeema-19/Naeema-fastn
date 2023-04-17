@@ -1,51 +1,48 @@
 -- import: naeema-19.github.io/naeema-fastn/assets
+-- import: naeema-19.github.io/naeema-fastn/lib
 
+-- lib.navbar:
+text-1: **Home**
+text-2: **About**
+text-3: **Resume**
+text-4: **Contact**
 
+-- lib.hero: **Govindaraman S**
+cta-text-1: ***"Reframe the future"***
+cta-text-2: **Dreamer | Designer | Developer**
+pic: $assets.files.images.hero.jpg
+linkedin: $assets.files.images.linkedin.png
+twit: $assets.files.images.twitter.png
+insta: $assets.files.images.insta.png
+github: $assets.files.images.github.png
 
--- ds.page: Welcome to your [FASTN site](https://fastn.io/)
+-- lib.about: **About Me**
 
--- ftd.column:
-align-self: center
+**Heyy, I am Govindaraman! I want to Create Renewable Alternatives for Future 
+Technology. I am a Designer who want to build cool things that are useful for 
+society. I also want to support my peers to become the best version of 
+themselves**
 
--- chat.message-left: Yo! I am Amit Upadhyay, CEO of FifthTry, welcome to the new world of FTD.
+-- lib.page: **Experience**
 
--- ds.markdown: 
+-- lib.resume-card: **Front-End Developer**
+icon: $assets.files.images.trizwit.jpeg
+organization: **Trizwit Labs**
+duration: *Feb 2023 - Present*
 
-You reached the right place, and from here let me assure you, your FTD journey is going superfast. 🙂
+-- lib.resume-card: **Freelance Graphic Designer**
+icon: $assets.files.images.org.png
+organization: **Fiver**
+duration: *Sep 2022 - Present*
 
--- end: chat.message-left
+-- lib.resume-card: **Chairman**
+icon: $assets.files.images.org.png
+organization: **IEEE MACE SB**
+duration: *Jan 2021 - Dec 2021*
 
--- chat.message-right:  😊 Liking this chat component?
+-- lib.page: **Education**
 
--- ds.markdown:
-
-[Click here to learn more](https://fifthtry.github.io/bling/chat/)
-👍
-
--- end: chat.message-right
-
--- end: ftd.column
-
--- ds.h1: How to use?
-
-It's very simple like making a sandwich. Create new `.ftd` file and just say:
-
--- ds.code: `-- ds.page` 
-lang: ftd
-
-\-- ds.page: Your page title goes here
-
-Your page content goes here.
-
-
--- ds.h1: Need sidebar at right side of page?
-
-Here it is, [use this document](https://fifthtry.github.io/doc-site/docs/right-sidebar/).
-
-
--- ds.h1: 👀 Learn FTD and become a pro?
-
-You are one click away, just check [our documentation](https://fastn.dev/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
-
--- end: ds.page
+-- lib.resume-card: **B.Tech Electrcial & Electronics Engineering**
+icon: $assets.files.images.org.png
+organization: **Mar Athanasius College of Engineering, Kothamanagalam**
+duration: *Aug 2018 - July 2022*
