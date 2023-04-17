@@ -1,0 +1,48 @@
+-- import: sarvom.github.io/portfolio/assets
+-- import: sarvom.github.io/portfolio/lib
+
+-- lib.navbar:
+text-1: **Home**
+text-2: **About**
+text-3: **Resume**
+text-4: **Contact**
+
+-- lib.hero: **Govindaraman S**
+cta-text-1: ***"Reframe the future"***
+cta-text-2: **Dreamer | Designer | Developer**
+pic: $assets.files.images.hero.jpg
+linkedin: $assets.files.images.linkedin.png
+twit: $assets.files.images.twitter.png
+insta: $assets.files.images.insta.png
+github: $assets.files.images.github.png
+
+-- lib.about: **About Me**
+
+**Heyy, I am Govindaraman! I want to Create Renewable Alternatives for Future 
+Technology. I am a Designer who want to build cool things that are useful for 
+society. I also want to support my peers to become the best version of 
+themselves**
+
+-- lib.page: **Experience**
+
+-- lib.resume-card: **Front-End Developer**
+icon: $assets.files.images.trizwit.jpeg
+organization: **Trizwit Labs**
+duration: *Feb 2023 - Present*
+
+-- lib.resume-card: **Freelance Graphic Designer**
+icon: $assets.files.images.org.png
+organization: **Fiver**
+duration: *Sep 2022 - Present*
+
+-- lib.resume-card: **Chairman**
+icon: $assets.files.images.org.png
+organization: **IEEE MACE SB**
+duration: *Jan 2021 - Dec 2021*
+
+-- lib.page: **Education**
+
+-- lib.resume-card: **B.Tech Electrcial & Electronics Engineering**
+icon: $assets.files.images.org.png
+organization: **Mar Athanasius College of Engineering, Kothamanagalam**
+duration: *Aug 2018 - July 2022*
