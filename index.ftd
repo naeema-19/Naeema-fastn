@@ -1,5 +1,5 @@
--- import: sarvom.github.io/portfolio/assets
--- import: sarvom.github.io/portfolio/lib
+-- import: naeema-19.github.io/naeema-fastn/assets
+-- import: naeema-19.github.io/naeema-fastn/lib
 
 -- lib.navbar:
 text-1: **Home**
